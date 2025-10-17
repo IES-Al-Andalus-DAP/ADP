@@ -1,0 +1,20 @@
+<libros>
+    <libro>
+        <titulo>Python Programming</titulo>
+        <autor>John Smith</autor>
+        <genero>Programming</genero>
+        <precio>29.99</precio>
+    </libro>
+    <libro>
+        <titulo>Data Science for Beginners</titulo>
+        <autor>Alice Johnson</autor>
+        <genero>Data Science</genero>
+        <precio>39.99</precio>
+    </libro>
+    <libro>
+        <titulo>Introduction to Machine Learning</titulo>
+        <autor>Bob Brown</autor>
+        <genero>Machine Learning</genero>
+        <precio>49.99</precio>
+    </libro>
+</libros>
